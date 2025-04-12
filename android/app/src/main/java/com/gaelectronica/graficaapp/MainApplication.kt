@@ -1,4 +1,4 @@
-package com.graficaapp
+package com.gaelectronica.graficaapp
 
 import android.app.Application
 import com.facebook.react.PackageList

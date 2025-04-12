@@ -1,4 +1,4 @@
-package com.graficaapp
+package com.gaelectronica.graficaapp
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
